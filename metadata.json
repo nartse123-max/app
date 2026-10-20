@@ -1,0 +1,6 @@
+{
+  "name": "ល្បងប្រាជ្ញាគណិតវិទ្យា ថ្នាក់ទី២ - Grade 2 Math Quiz",
+  "description": "កម្មវិធីសំណួរចម្លើយគណិតវិទ្យាប្រមាណវិធីបូក សម្រាប់សិស្សថ្នាក់ទី២ កម្ពុជា ប្រកបដោយភាពរីករាយ និងពណ៌ស្រស់ស្អាត",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
